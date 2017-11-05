@@ -4,4 +4,4 @@
 ![c4](https://cloud.githubusercontent.com/assets/22739177/21065637/40fadae6-be16-11e6-9ade-b5d75b48fb12.PNG)
 ![c5](https://cloud.githubusercontent.com/assets/22739177/21065638/40fc7428-be16-11e6-82c1-d7f3ff365495.PNG)
 
-The server where the data come from has shut down.
+The Sunlight Foundation's Congress API has been officially shut down.
